@@ -64,4 +64,4 @@ This project demonstrates a complete RNA-Seq data analysis pipeline, applied to 
 ├── igv_snapshots/          # IGV visualizations (PNG/SVG)
 ├── run_commands.sh         # All shell commands used
 └── README.md               # This file
-file:///C:/Users/Deepanshu/Downloads/SRR19762473_1_unpaired_fastqc%20(1).html
+
